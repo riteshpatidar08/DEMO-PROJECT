@@ -10,3 +10,7 @@ console.log('sms service') ;
 
 
 console.log('email notification')
+
+for(let i =0 ; i < arr.length ; i++){
+    
+}
